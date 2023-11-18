@@ -1,0 +1,15 @@
+
+.navbar{
+    background-color: #2573DA;
+
+
+}
+
+.navbar .navbar-nav .nav-link{
+    color:white;
+}
+
+.logo{
+    width: 50px;
+    height: 50px;
+}
